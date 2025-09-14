@@ -81,5 +81,5 @@ Ao executar o programa, você poderá:
 ## 👨‍🏫 Informações acadêmicas
 
 - **Disciplina**: Programação Orientada a Objetos  
-- **Professor**: *Nome do Professor*  
-- **Autor**: *Seu Nome*  
+- **Professor**: *Ricardo Correia*  
+- **Autor**: *Jefferson Rodrigo*  
