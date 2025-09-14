@@ -80,6 +80,6 @@ Ao executar o programa, você poderá:
 
 ## 👨‍🏫 Informações acadêmicas
 
-- **Disciplina**: Programação Orientada a Objetos  
+- **Disciplina**: Programação  
 - **Professor**: *Ricardo Correia*  
 - **Autor**: *Jefferson Rodrigo*  
